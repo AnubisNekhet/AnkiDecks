@@ -8,8 +8,8 @@ Import the theme and font into your **Anki media folder** and replace the pre-ex
 ### Decks
 Deck | Subject | Version | Scope
 :---: | :---: | :---: | :---:
-[Biology Mega Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.0 | NCERT
-[Chem Mega Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Chemistry.apkg?raw=true "Chem Mega Deck") | Chemistry | 1.0.0 | NCERT
+[NEET Biology Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.0 | NCERT
+[NEET Chemistry Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Chemistry.apkg?raw=true "Chem Mega Deck") | Chemistry | 1.0.0 | NCERT
 [Chem Shorthand Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_ShorthandChem.apkg?raw=true "Chem Shorthand Deck") | Chemistry | 1.0.0 | Allen
 - - - -
 ### Styles
@@ -21,3 +21,15 @@ Style | Source | Version
 Font | Source
 :---: | :---:
 [JetBrains Mono](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Fonts/jbmono.ttf?raw=true) | [Jetbrains Mono GitHub](https://github.com/JetBrains/JetBrainsMono)
+- - - -
+## Progress
+### NEET Biology Deck
+[-] NCERT
+[ ] Aakash Modules
+[ ] Extra Stuff
+### NEET Chemistry Deck
+[ ] NCERT
+[ ] Aakash Modules
+[ ] Extra Stuff
+### Chem Shorthand Deck
+[-] Allen's Handbook for Organic
