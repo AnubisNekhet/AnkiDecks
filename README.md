@@ -24,12 +24,12 @@ Font | Source
 - - - -
 ## Progress
 ### NEET Biology Deck
-[-] NCERT
-[ ] Aakash Modules
-[ ] Extra Stuff
+- [x] NCERT
+- [ ] Aakash Modules
+- [ ] Extra Stuff
 ### NEET Chemistry Deck
-[ ] NCERT
-[ ] Aakash Modules
-[ ] Extra Stuff
+- [ ] NCERT
+- [ ] Aakash Modules
+- [ ] Extra Stuff
 ### Chem Shorthand Deck
-[-] Allen's Handbook for Organic
+- [x] Allen's Handbook for Organic
