@@ -15,4 +15,4 @@ Deck | Subject | Version | Scope
 ### Styles
 Style | Source | Version
 :---: | :---: | :---:
-[Catppuccin](https://raw.githubusercontent.com/AnubisNekhet/AnkiDecks/main/Styles/catppuccin.css) | [Catppuccin](https://github.com/catppuccin/catppuccin) | 1.0.0
+[Catppuccin](https://raw.githubusercontent.com/AnubisNekhet/AnkiDecks/main/Styles/catppuccin/AnubisTheme.css) | [Catppuccin](https://github.com/catppuccin/catppuccin) | 1.0.0
