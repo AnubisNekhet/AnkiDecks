@@ -20,4 +20,4 @@ Style | Source | Version
 ### Font
 Font | Source
 :---: | :---:
-JetBrains Mono | [Jetbrains Mono GitHub](https://github.com/JetBrains/JetBrainsMono)
+[JetBrains Mono](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Fonts/jbmono.ttf?raw=true) | [Jetbrains Mono GitHub](https://github.com/JetBrains/JetBrainsMono)
