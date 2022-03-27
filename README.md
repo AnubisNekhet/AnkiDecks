@@ -1,5 +1,6 @@
 # AnkiDecks
 Decks for Anki that I made :)
+![Banner](https://github.com/AnubisNekhet/AnkiDecks/blob/d157d8d26904d97917aedcb7f8f3e66a0e5014ac/AnkiThumb.png)
 - - - -
 ## How to set up?
 Download a deck from the Decks table, import that then download a stylesheet from the Theme table.
