@@ -2,8 +2,8 @@
 Decks for Anki that I made :)
 - - - -
 ## How to set up?
-Download a deck from the Decks table then download a stylesheet from the Theme table.
-Import the theme into your **Anki media folder** and replace the pre-existing theme.
+Download a deck from the Decks table, import that then download a stylesheet from the Theme table.
+Import the theme into your **Anki media folder** and replace the pre-existing theme if you have one.
 - - - -
 ### Decks
 Deck | Subject | Version | Scope
