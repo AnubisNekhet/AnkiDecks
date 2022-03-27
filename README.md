@@ -2,8 +2,8 @@
 ![Banner](https://github.com/AnubisNekhet/AnkiDecks/blob/d157d8d26904d97917aedcb7f8f3e66a0e5014ac/AnkiThumb.png)
 - - - -
 ## How to set up?
-Download a deck from the Decks table, import that then download a stylesheet from the Theme table.
-Import the theme into your **Anki media folder** and replace the pre-existing theme if you have one.
+Download a deck from the Decks table, import that then download a stylesheet from the Theme table along with the font.
+Import the theme and font into your **Anki media folder** and replace the pre-existing theme if you have one.
 - - - -
 ### Decks
 Deck | Subject | Version | Scope
@@ -16,3 +16,8 @@ Deck | Subject | Version | Scope
 Style | Source | Version
 :---: | :---: | :---:
 [Catppuccin](https://raw.githubusercontent.com/AnubisNekhet/AnkiDecks/main/Styles/catppuccin/AnubisTheme.css) | [Catppuccin](https://github.com/catppuccin/catppuccin) | 1.0.0
+- - - -
+### Font
+Font | Source
+:---: | :---:
+JetBrains Mono | [Jetbrains Mono GitHub](https://github.com/JetBrains/JetBrainsMono)
