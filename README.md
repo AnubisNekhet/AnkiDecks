@@ -1,5 +1,7 @@
 # AnkiDecks
 ![Banner](https://github.com/AnubisNekhet/AnkiDecks/blob/d157d8d26904d97917aedcb7f8f3e66a0e5014ac/AnkiThumb.png)
+## Preview
+![Preview](https://github.com/AnubisNekhet/AnkiDecks/blob/831693ed37df913c73457553902ee2f06b86213d/preview.gif)
 - - - -
 ## How to set up?
 Download a deck from the Decks table, import that then download a stylesheet from the Theme table along with the font.
