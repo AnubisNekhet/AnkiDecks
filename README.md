@@ -8,11 +8,11 @@ Download a deck from the Decks table, import that then download a stylesheet fro
 Import the theme and font into your **Anki media folder** and replace the pre-existing theme if you have one.
 - - - -
 ### Decks
-Deck | Subject | Version | Scope
-:---: | :---: | :---: | :---:
-[NEET Biology Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.0 | NCERT
-[NEET Chemistry Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Chemistry.apkg?raw=true "Chem Mega Deck") | Chemistry | 1.0.0 | NCERT
-[Chem Shorthand Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_ShorthandChem.apkg?raw=true "Chem Shorthand Deck") | Chemistry | 1.0.0 | Allen
+Deck | Subject | Version | Scope | Cards
+:---: | :---: | :---: | :---: | :---:
+[NEET Biology Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.0 | NCERT | 4.4k
+[NEET Chemistry Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Chemistry.apkg?raw=true "Chem Mega Deck") | Chemistry | 1.0.0 | NCERT | 1.4k
+[Chem Shorthand Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_ShorthandChem.apkg?raw=true "Chem Shorthand Deck") | Chemistry | 1.0.0 | Allen | 688
 - - - -
 ### Styles
 Style | Source | Version
