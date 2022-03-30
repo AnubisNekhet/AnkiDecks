@@ -35,3 +35,6 @@ Font | Source
 - [ ] Extra Stuff
 ### Chem Shorthand Deck
 - [x] Allen's Handbook for Organic
+- - - -
+### Updates
+30/3/22 - v1.0.1 of the shorthand chem deck, now with more reactions, unique style for synth reactions, a subdeck for reaction influencing groups.
