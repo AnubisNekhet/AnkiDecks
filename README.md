@@ -12,6 +12,7 @@ Deck | Subject | Version | Scope | Cards
 :---: | :---: | :---: | :---: | :---:
 [NEET Biology Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.0 | NCERT | 4.4k
 [NEET Chemistry Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Chemistry.apkg?raw=true "Chem Mega Deck") | Chemistry | 1.0.0 | NCERT | 1.4k
+[NEET Physics Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Physics.apkg?raw=true "Physics Mega Deck") | Physics | 1.0.0 | Aakash | 800
 [Chem Shorthand Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_ShorthandChem.apkg?raw=true "Chem Shorthand Deck") | Chemistry | 1.0.0 | Allen | 688
 - - - -
 ### Styles
