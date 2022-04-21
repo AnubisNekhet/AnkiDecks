@@ -10,7 +10,7 @@ Import the theme and font into your **Anki media folder** and replace the pre-ex
 ### Decks
 Deck | Subject | Version | Scope | Cards
 :---: | :---: | :---: | :---: | :---:
-[NEET Biology Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.0 | NCERT | 4.4k
+[NEET Biology Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Biology.apkg?raw=true "Biology Mega Deck") | Zoology & Botany | 1.0.1 | NCERT | 5.4k
 [NEET Chemistry Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Chemistry.apkg?raw=true "Chem Mega Deck") | Chemistry | 1.0.0 | NCERT | 1.4k
 [NEET Physics Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_Physics.apkg?raw=true "Physics Mega Deck") | Physics | 1.0.0 | Aakash | 800
 [Chem Shorthand Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/Anubis_ShorthandChem.apkg?raw=true "Chem Shorthand Deck") | Chemistry | 1.0.0 | Allen | 688
@@ -38,4 +38,5 @@ Font | Source
 - [x] Allen's Handbook for Organic
 - - - -
 ### Updates
+21/4/22 - Minor Biology deck update for select chapters and formatting touch-ups
 30/3/22 - v1.0.1 of the shorthand chem deck, now with more reactions, unique style for synth reactions, a subdeck for reaction influencing groups.
