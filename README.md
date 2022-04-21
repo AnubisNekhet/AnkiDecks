@@ -38,5 +38,5 @@ Font | Source
 - [x] Allen's Handbook for Organic
 - - - -
 ### Updates
-21/4/22 - Minor Biology deck update for select chapters and formatting touch-ups
-30/3/22 - v1.0.1 of the shorthand chem deck, now with more reactions, unique style for synth reactions, a subdeck for reaction influencing groups.
+- [x] 21/4/22 - Minor Biology deck update for select chapters and formatting touch-ups
+- [x] 30/3/22 - v1.0.1 of the shorthand chem deck, now with more reactions, unique style for synth reactions, a subdeck for reaction influencing groups.
