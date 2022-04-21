@@ -9,7 +9,7 @@
 --Peach: #F8BD96;
 --Yellow: #FAE3B0;
 --Green: #ABE9B3;
---Teal: #B5E8E0;
+--Teal: #85ddc4; /*#B5E8E0;*/
 --Blue: #96CDFB;
 --Sky: #89DCEB;
 --Black: #131020;
@@ -26,6 +26,9 @@
 --Dark: #000000;
 --Darki: #080A12;
 --Blackv: #070911;
+--Cyan: #16E0B5;
+--Ocean: #4E9AD8;
+--Night: #6388CE;
 }
 
 
@@ -36,7 +39,7 @@ margin-top: 10px;
 background-color:var(--Black);
 border-radius: 10px;
 box-shadow: 0px 0px 10px 2px var(--Dark);
-overflow: scroll;
+overflow: hidden;
 }
 #footer {
 padding: 0px 0px;
@@ -71,7 +74,7 @@ right: 0;
 border-radius: 10px;
 box-shadow: 1px 1px 10px 2px var(--Dark);
 white-space: nowrap;
-overflow: scroll;
+overflow: hidden;
 }
 table { border-collapse: collapse; min-width: 70%; align: center; }
 .cloze, .cloze b, .cloze u, .cloze i, .cloze hl, .cloze hl2 {
@@ -99,7 +102,7 @@ font-style: normal;
 /*------DESKTOP------*/
 .card { color: var(--White);
 background-color: var(--Darki); }
-.cloze, .cloze b, .cloze u, .cloze i, .cloze hl, .cloze hl2, .cloze hl3 { color: var(--Yellow) !important; }
+.cloze, .cloze b, .cloze u, .cloze i, .cloze hl, .cloze hl2, .cloze hl3, .cloze em { color: var(--Yellow) !important; }
 .tags { color: var(--Peach); background-color:var(--Black); }
 .deck { color: var(--Green); }
 #extra, .mobile #extra i { color: var(--Yellow); }
@@ -114,13 +117,14 @@ h3 { color: var(--Mauve); }
 h4 { color: var(--Peach); }
 li b, ol b { color: var(--Sky) !important; }
 li ul li b, li ol li b { color: var(--Blue) !important; }
+li ul li ul li b, li ol li ol li b { color: var(--Ocean) !important; }
 th { color: var(--Sky); }
 b { color: var(--Red); }
 em { color: var(--Green); }
 i { color: var(--Teal); }
 
 /*------DESKTOP------*/
-
+.mobile #kard, .mobile .tags, .mobile .deck { overflow:scroll; }
 .mobile .card
 { color: var(--White);
 background-color: var(--Darki);
