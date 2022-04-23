@@ -5,7 +5,7 @@
 - - - -
 ## How to set up?
 Download a deck from the Decks table, import that then download a stylesheet from the Theme table along with the font.
-Import the theme and font into your **Anki media folder** and replace the pre-existing theme if you have one.
+Import the theme and font into your **Anki media folder (AppData > Roaming > Anki2 > collection.media)** and replace the pre-existing theme if you have one.
 - - - -
 ### Decks
 Deck | Subject | Version | Scope | Cards
