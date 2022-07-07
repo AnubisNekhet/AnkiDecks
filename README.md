@@ -17,7 +17,7 @@ Deck | Subject | Version | Scope | Cards
 ### Font
 Font | Source
 :---: | :---:
-[Iosevka Comfy Duo](https://github.com/protesilaos/iosevka-comfy/blob/master/iosevka-comfy-duo/ttf/iosevka-comfy-duo-regular.ttf?raw=true) | [Jetbrains Mono GitHub](https://github.com/protesilaos/iosevka-comfy)
+[Iosevka Comfy Duo](https://github.com/protesilaos/iosevka-comfy/blob/master/iosevka-comfy-duo/ttf/iosevka-comfy-duo-regular.ttf?raw=true) | [Iosevka Comfy](https://github.com/protesilaos/iosevka-comfy)
 - - - -
 ## Progress
 Almost all of NCERT done save for very few lines that may be here and there. I'm no longer providing any dedicated updates to this deck.
