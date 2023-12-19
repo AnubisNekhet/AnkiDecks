@@ -4,7 +4,7 @@
 
 <img src="Assets/preview.webp">
 
-<center><h3><a href="https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/AnubisDeckPenultimate.apkg?raw=true">Download Link</a></h3></center>
+<center><h3 align="center"><a href="https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/AnubisDeckPenultimate.apkg?raw=true">Download Link</a></h3></center>
 
 ### Decks
 Deck | Subject | Version | Scope | Cards
