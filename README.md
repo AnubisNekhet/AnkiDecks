@@ -5,18 +5,18 @@
 <img src="Assets/AnkiThumb.webp">
 Light mode for those who want that
 <img src="Assets/preview.webp">
-- - - -
+
 ## How to set up?
 Update July 2022: Download the deck from the link below and import, that's it :)
-- - - -
+
 ### Decks
 Deck | Subject | Version | Scope | Cards
 :---: | :---: | :---: | :---: | :---:
 [Complete NEET Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/AnubisDeckPenultimate.apkg?raw=true "Complete NEET Deck") | Entire NEET Syllabus | 2.1.0 | NCERT + Aakash (Partial) | 10k
-- - - -
+
 ## Progress
 Almost all of NCERT done save for very few lines that may be here and there. I'm no longer providing any dedicated updates to this deck.
-- - - -
+
 ### Updates
 - [x] 21/4/22 - Minor Biology deck update for select chapters and formatting touch-ups
 - [x] 30/3/22 - v1.0.1 of the shorthand chem deck, now with more reactions, unique style for synth reactions, a subdeck for reaction influencing groups.
