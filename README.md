@@ -1,13 +1,10 @@
 # AnkiDecks
 
-## Preview
-
 <img src="Assets/AnkiThumb.webp">
-Light mode for those who want that
+
 <img src="Assets/preview.webp">
 
-## How to set up?
-Update July 2022: Download the deck from the link below and import, that's it :)
+<center><h3><a href="https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/AnubisDeckPenultimate.apkg?raw=true">Download Link</a></h3></center>
 
 ### Decks
 Deck | Subject | Version | Scope | Cards
