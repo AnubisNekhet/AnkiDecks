@@ -1,4 +1,4 @@
-# AnkiDecks
+# Anubis' Anki Decks
 
 <img src="Assets/AnkiThumb.webp">
 
@@ -6,7 +6,7 @@
 
 <center><h3 align="center"><a href="https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/AnubisDeckPenultimate.apkg?raw=true">Download Link</a></h3></center>
 
-### Decks
+### Progress
 Deck | Subject | Version | Scope | Cards
 :---: | :---: | :---: | :---: | :---:
 [Complete NEET Deck](https://github.com/AnubisNekhet/AnkiDecks/blob/main/Decks/AnubisDeckPenultimate.apkg?raw=true "Complete NEET Deck") | Entire NEET Syllabus | 2.1.0 | NCERT + Aakash (Partial) | 10k
